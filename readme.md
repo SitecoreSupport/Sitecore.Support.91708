@@ -1,5 +1,6 @@
 # Sitecore.Support.91708
 If you are editing the image with Image Editor, the function Crop working incorrectly.
+
 This patch allows selecting the required area in borders of picture without any problem.
 
 ## License  
